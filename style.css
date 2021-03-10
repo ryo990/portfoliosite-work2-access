@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+  background-color:#EEE;
+}
+
+.wrapper{
+  text-align:center;
+}
+
+.wrapper h1{
+  color:olive;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.map{
+  display:flex;
+  justify-content:center;
+  font-family:'Playfair Display', serif;
+  height:400px;
+}
+
+.map-image{
+  text-align:center;
+  width:50%;
+}
+
+.ward{
+  text-align:center;
+  width:50%;
+}
+
+.ward h1{
+  border-bottom:solid 1px black;
+  display:inline-block;
+}
+
+footer{
+  text-align:center;
+}
